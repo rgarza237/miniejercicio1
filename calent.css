@@ -1,0 +1,64 @@
+body{
+background-color: bisque;
+}
+
+button{
+ height: 25px;
+ width: 90px;
+    border-bottom-left-radius: 25%;
+    border-top-left-radius: 25%;
+    border-bottom-right-radius: 25%;
+    border-top-right-radius: 25%;
+    background-color: beige;
+    margin-top: 20px;
+}
+
+svg{
+    margin-top: 15px;
+}
+
+p{
+    font-size: 12px;
+}
+
+#contenedor {
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    flex-direction: row;
+}
+
+.card1 {
+    height: 300px;
+width: 170px;
+color: beige;
+background-color: rgba(255, 145, 0, 0.685);
+border-radius: 10px;
+text-align: center;
+padding: 10px;
+}
+
+.card2 {
+    height: 300px;
+width: 170px;
+color: beige;
+background-color: rgb(29, 94, 102);
+border-radius: 10px;
+text-align: center;
+padding: 10px;
+}
+
+.card3 {
+    height: 300px;
+width: 170px;
+color: beige;
+background-color: rgb(20, 73, 80);
+border-radius: 10px;
+text-align: center;
+padding: 10px;
+}
+
+#suv{
+    height: 50px;
+    width: 50px;
+}
